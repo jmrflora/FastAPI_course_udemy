@@ -1,3 +1,6 @@
 [submodule "fastapi-the-complete-course"]
 	path = fastapi-the-complete-course
 	url = https://github.com/codingwithroby/fastapi-the-complete-course.git
+[submodule "pythonRefresher/fastapi-the-complete-course"]
+	path = pythonRefresher/fastapi-the-complete-course
+	url = https://github.com/codingwithroby/fastapi-the-complete-course.git
